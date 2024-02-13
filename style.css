@@ -1,0 +1,38 @@
+.row h1{
+    color:orangered;
+}
+.row h2{
+    color: orangered;
+}
+.container .card{
+      width: 200px;
+  height: 100px;
+  box-sizing: border-box;
+    object-fit: contain;
+
+}
+.container .card-img-top{
+     width: 200px;
+  height: 100px;
+  object-fit: contain;
+}
+.row .col-md-5 img{
+
+}
+.carousel-inner img{
+       width: 200px;
+  height: 600px;
+}
+a{
+    color: black
+    !important;
+    display: flex;
+}
+.row img{
+    width: 400px;
+}
+a:hover {
+    color: orangered
+!important;
+    text-decoration: underline;
+}
